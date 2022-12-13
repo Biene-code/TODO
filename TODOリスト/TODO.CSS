@@ -1,0 +1,43 @@
+@charset "utg-8";
+
+html {
+    font-size: 18px;
+  }
+  
+  body,html {
+    width: 1000px;
+    margin: 1% auto;
+    font-family: NSimSun;
+  }
+  
+  .task_value {
+    height: 1.25rem;
+  }
+  
+  .task_submit {
+    height: 1.75rem;
+  }
+  
+  #table {
+    background-color: rgba(198, 235, 215, 0.514);
+    width: 50%;
+    height: 100%;
+    border-radius: 2rem;
+    margin-top: 2rem;
+  }
+
+
+  h2 {
+    font-size: 1.2rem;
+    padding: 1rem;
+  }
+  
+  li {
+    margin: 2rem ;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  ul {
+    padding:1rem;
+  }
